@@ -4,22 +4,10 @@
     ],
     "images": [
         {
-            "name": "LeafOS on ARM64 (microG)",
+            "name": "HyperOS-14",
             "cpu_abi": "arm64-v8a",
-            "details": "leaf-3.2-299-microG-leaf_gsi_arm64-img.zip",
-            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-microG-leaf_gsi_arm64-img.zip"
-        },
-        {
-            "name": "LeafOS on ARM64 (GMS)",
-            "cpu_abi": "arm64-v8a",
-            "details": "leaf-3.2-299-GMS-leaf_gsi_arm64-img.zip",
-            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-GMS-leaf_gsi_arm64-img.zip"
-        },
-        {
-            "name": "LeafOS on ARM64 (VANILLA)",
-            "cpu_abi": "arm64-v8a",
-            "details": "leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip",
-            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip"
+            "details": "Hyperos-houji-14-V816.0.24.6.24.DEV-AB-20240628-MysticGSI.zip",
+            "uri": "https:\/\/downloads.sourceforge.net\/project\/mystic-gsi-updates\/HyperOS\/Hyperos-houji-14-V816.0.24.6.24.DEV-AB-20240628-MysticGSI.zip?ts=gAAAAABmjbA2AEnvtrhWzjIW94Mn8FtXy0zVW0HL7JTRU3obLDr5fSYCfoBRqnXtbgusmYxUJWhp_qcooclHqIHom-DFmfhFUA%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fmystic-gsi-updates%2Ffiles%2FHyperOS%2FHyperos-houji-14-V816.0.24.6.24.DEV-AB-20240628-MysticGSI.zip%2Fdownload"
         }
     ]
 }
