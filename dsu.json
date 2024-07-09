@@ -1,0 +1,25 @@
+{
+    "include": [
+        "https:\/\/dl.google.com\/developers\/android\/gsi\/gsi-src.json"
+    ],
+    "images": [
+        {
+            "name": "LeafOS on ARM64 (microG)",
+            "cpu_abi": "arm64-v8a",
+            "details": "leaf-3.2-299-microG-leaf_gsi_arm64-img.zip",
+            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-microG-leaf_gsi_arm64-img.zip"
+        },
+        {
+            "name": "LeafOS on ARM64 (GMS)",
+            "cpu_abi": "arm64-v8a",
+            "details": "leaf-3.2-299-GMS-leaf_gsi_arm64-img.zip",
+            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-GMS-leaf_gsi_arm64-img.zip"
+        },
+        {
+            "name": "LeafOS on ARM64 (VANILLA)",
+            "cpu_abi": "arm64-v8a",
+            "details": "leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip",
+            "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip"
+        }
+    ]
+}
