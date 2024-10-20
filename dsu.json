@@ -20,6 +20,12 @@
             "cpu_abi": "arm64-v8a",
             "details": "leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip",
             "uri": "https:\/\/dl.leafos.org\/leaf_gsi_arm64\/20240622_1511\/leaf-3.2-299-VANILLA-leaf_gsi_arm64-img.zip"
-        }
+        },
+        {
+            "name": "HentaiOS (GMS)",
+            "cpu_abi": "arm64-v8a",
+            "details": "hentai-Vallhound-gsi_hentai_arm64.zip",
+            "uri": "http:\/\/bashupload.com\/cYWac\/BtaEq.zip"
+        },
     ]
 }
